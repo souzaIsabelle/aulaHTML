@@ -1,0 +1,146 @@
+
+    /* <<<< INDEX >>>> */
+    
+    #menu-container {
+        
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        
+
+    }
+
+    #foto {
+        text-align: center;
+    }
+
+    .botao {
+        margin: 0px;
+        font-size: 15px;
+        border: none;
+        border-radius: 10px;
+        padding: 10px 10px;
+
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+    }
+
+    p {
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        font-size: 20px;
+        
+    }
+
+    .p1{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        font-size: 12px;
+        
+    }
+
+    body{
+        background: url("img.jpg");
+        background-size: 1230px;
+    }
+
+    /* <<<< INDEX >>>> */
+
+
+    /*<<<<SOBRE NÓS>>>>*/
+
+    #texto{
+
+        text-align: left;
+        font-size: 100px;
+        margin-left: 40px;
+        margin-right: 590px;
+        margin-top: 50px;
+
+    }
+
+    .imag{
+        
+        margin-left: 120px;
+        margin-top: 20px;
+    
+    }
+
+    .imag2{
+
+        margin-left: 720px;
+        margin-top: -250px;
+        
+    
+
+    }
+        .imag3{
+            margin-left: 430px;
+            margin-top: 50px;
+        }
+
+    .p2{
+        text-align: center;
+        margin-top: 300px;
+        font-size: 25px;
+    }
+
+    
+    /*<<<<SOBRE NÓS>>>>*/
+
+    /*<<<<PRODUTOS>>>>*/
+
+
+    .imagP1{
+        margin-left: 50px;
+    }
+
+    .textoPRODUTO{
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .imagP2{
+        text-align: center;
+        margin-left: 500px;
+        margin-top: -430px;
+    }
+
+    .textoPRODUTO2{
+        margin-left: 100px;
+        margin-top: -30px;
+    }
+
+    .imageP3{
+        margin-left: 50px;
+    
+    }
+
+    .textoPRODUTO3{
+        text-align: left;
+        margin-left: 10px;
+    }
+
+
+    .imageP4{
+        text-align: center;
+        margin-left: 550px;
+        margin-top: -350px
+        }
+
+    .textoPRODUTO4{
+        text-align: right;
+        margin-right: 100px;
+    }
+
+
+
+    /*<<<<PRODUTOS>>>>*/
+        
+    
